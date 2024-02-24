@@ -1,4 +1,4 @@
-The Ethical Email Outreach Automator is a powerful marketing tool designed to streamline and enhance outreach efforts for businesses and marketers. Utilizing advanced algorithms and intelligent web scraping technology, the tool systematically scans the internet for publicly available email addresses within specified parameters, such as industry, location, or target audience.
+TheHarvesterMarketingTool is a powerful marketing tool designed to streamline and enhance outreach efforts for businesses and marketers. Utilizing advanced algorithms and intelligent web scraping technology, the tool systematically scans the internet for publicly available email addresses within specified parameters, such as industry, location, or target audience.
 
 Key Features:
 
