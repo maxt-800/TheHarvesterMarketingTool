@@ -1,10 +1,7 @@
-
-![harvester2](https://github.com/maxt-800/TheHarvesterMarketingTool/assets/131497208/f97cb6a5-9a19-497d-8982-01e3c711118f)
-
-
-
-
 TheHarvesterMarketingTool is a powerful marketing tool designed to streamline and enhance outreach efforts for businesses and marketers. Utilizing advanced algorithms and intelligent web scraping technology, the tool systematically scans the internet for publicly available email addresses within specified parameters, such as industry, location, or target audience.
+
+
+![harvester2](https://github.com/maxt-800/TheHarvesterMarketingTool/assets/131497208/f2e9c0c1-6a95-442b-8a27-b6716251b2c1)
 
 Key Features:
 
